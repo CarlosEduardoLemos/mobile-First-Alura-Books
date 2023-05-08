@@ -12,8 +12,7 @@
     width: 100%;
 }
 
-.swiper-button-prev,
-.swiper-button-next {
+.swiper-button-prev, .swiper-button-next {
     display: none;
 }
 
