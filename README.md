@@ -6,7 +6,7 @@ Este é o README para o projeto Alura Books, um site de materiais de estudos des
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Books**
 | :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/mobile-First-Alura-Books/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/SeuUsuario/projeto-alura-study-books/main/imagens/alura-study-books.png#vitrinedev)
@@ -21,7 +21,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos de design res
 
 Os próximos passos para o projeto incluem a adição de recursos adicionais, como a implementação de um sistema de busca por livros, a criação de páginas de perfil para os usuários e a integração com um serviço de pagamento para facilitar a compra dos livros.
 
-Se você está em busca de livros de estudos para aprimorar seus conhecimentos, experimente o site Alura Books [aqui](https://url-deploy.com.br) e explore a variedade de livros disponíveis para aprimorar suas habilidades.
+Se você está em busca de livros de estudos para aprimorar seus conhecimentos, experimente o site Alura Books [aqui](https://carloseduardolemos.github.io/mobile-First-Alura-Books/) e explore a variedade de livros disponíveis para aprimorar suas habilidades.
 
 ## Contribuição
 
