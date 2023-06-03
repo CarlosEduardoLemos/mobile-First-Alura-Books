@@ -9,7 +9,7 @@ Este é o README para o projeto Alura Books, um site de materiais de estudos des
 | :rocket: URL         | https://carloseduardolemos.github.io/mobile-First-Alura-Books/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/SeuUsuario/projeto-alura-study-books/main/imagens/alura-study-books.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/mobile-First-Alura-Books/main/img/Captura%20de%20tela%202023-06-03%20153055.png#vitrinedev)
 
 ## Detalhes do projeto
 
