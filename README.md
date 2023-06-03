@@ -1,29 +1,32 @@
-# HTML e CSS: Responsividade com Mobile-first
+# Alura Study Books
 
-Este repositório contém os códigos-fonte e exemplos práticos desenvolvidos durante o curso "HTML e CSS: Responsividade com Mobile-first", ministrado pela instrutora Mônica Mazzochi Hillman na plataforma Alura.
+Este é o README para o projeto Alura Books, um site de materiais de estudos desenvolvido pelo grupo Alura. O site oferece uma variedade de livros voltados para o aprendizado de diferentes áreas do conhecimento.
 
-O curso tem como objetivo ensinar os fundamentos de responsividade com a metodologia mobile-first, que consiste em desenvolver primeiro a versão para dispositivos móveis e depois adaptá-la para telas maiores. Durante o curso, você irá aprender a utilizar as principais técnicas de HTML e CSS para criar layouts responsivos, como:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura Books**
+| :label: Tecnologias | HTML, CSS, JavaScript
+| :rocket: URL         | https://url-deploy.com.br
 
-- Conceitos de design responsivo;
-- Metodologia mobile-first;
-- Utilização de media queries;
-- Grids e flexbox;
-- Imagens responsivas;
-- Animações CSS;
-- Boas práticas de performance.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/SeuUsuario/projeto-alura-study-books/main/imagens/alura-study-books.png#vitrinedev)
 
-## Como utilizar
+## Detalhes do projeto
 
-Para utilizar o conteúdo deste repositório, basta cloná-lo em sua máquina e abrir os arquivos HTML e CSS correspondentes em seu editor de código preferido. É necessário ter conhecimentos básicos de HTML e CSS para entender e modificar os arquivos.
+O Alura Study Books é um site desenvolvido pelo grupo Alura, que oferece uma ampla seleção de livros de estudos em diversas áreas do conhecimento. O site possui uma interface intuitiva e atraente, permitindo aos usuários explorarem os livros disponíveis, lerem descrições, verem avaliações e realizarem a compra.
 
-## Estrutura do repositório
+O projeto foi desenvolvido utilizando HTML, CSS e JavaScript. O HTML foi utilizado para criar a estrutura do site e organizar os elementos, o CSS foi utilizado para estilizar visualmente o site e torná-lo atraente aos usuários, e o JavaScript foi utilizado para adicionar interatividade e funcionalidade ao site, como a exibição dinâmica de informações dos livros e o gerenciamento do carrinho de compras.
 
-O repositório está dividido em pastas, sendo cada uma delas correspondente a uma aula específica. Cada pasta contém o código-fonte desenvolvido durante a aula, assim como um arquivo README com informações sobre o conteúdo abordado.
+Durante o desenvolvimento deste projeto, foram aplicados conceitos de design responsivo para garantir uma boa experiência em diferentes dispositivos, como desktops, tablets e smartphones. Além disso, foram utilizadas boas práticas de programação, como a modularização do código JavaScript e a separação de estilos em arquivos CSS.
 
-## Autora
+Os próximos passos para o projeto incluem a adição de recursos adicionais, como a implementação de um sistema de busca por livros, a criação de páginas de perfil para os usuários e a integração com um serviço de pagamento para facilitar a compra dos livros.
 
-Este curso foi ministrado pela instrutora Mônica Mazzochi Hillman. Você pode conhecer mais sobre o trabalho dela em seu [Perfil no Github](https://github.com/MonicaHillman) ou pelo [LinkedIn](https://www.linkedin.com/in/monicamhillman/).
+Se você está em busca de livros de estudos para aprimorar seus conhecimentos, experimente o site Alura Books [aqui](https://url-deploy.com.br) e explore a variedade de livros disponíveis para aprimorar suas habilidades.
 
-## Considerações finais
+## Contribuição
 
-Este repositório foi criado apenas para fins educacionais e não é aberto a contribuições externas. Espero que o conteúdo seja útil para o seu aprendizado sobre HTML e CSS com responsividade mobile-first!
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue no repositório ou enviar um pull request com suas sugestões e melhorias. Agradecemos antecipadamente todas as contribuições e ideias para aprimorar ainda mais o Alura Books.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizar o código e adaptá-lo às suas necessidades.
