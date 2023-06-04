@@ -1,6 +1,6 @@
 # Alura Study Books
 
-Este é o README para o projeto Alura Books, um site de materiais de estudos desenvolvido pelo grupo Alura. O site oferece uma variedade de livros voltados para o aprendizado de diferentes áreas do conhecimento.
+O projeto Alura Books, é um site de materiais de estudos desenvolvido pelo grupo Alura. O site oferece uma variedade de livros voltados para o aprendizado de diferentes áreas do conhecimento.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
